@@ -17,9 +17,10 @@
         text-align: right;
         position: fixed; top:3px; width: 95%
     }
-    .img{
-        text-align: right;
-    }
+    .img {
+  text-align: right;
+}
+
     
     .section h3{
       border-bottom: 2px solid #0073e6;
